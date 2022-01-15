@@ -100,6 +100,14 @@ h3 {
     margin-left: 10px;
 }
 
+/* see more */
+.see-more-button {
+    text-align: right;
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+}
+
 /* footer */
 footer {
     padding: 5px;
