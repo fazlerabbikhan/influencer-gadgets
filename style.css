@@ -132,3 +132,12 @@ footer {
     color: white;
     background-color: darkslategrey;
 }
+
+/* media queries */
+
+/* mobile */
+@media only screen and (max-width: 688px) {
+    .items {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
